@@ -1,6 +1,10 @@
 # stage_kpn
 Stage opdracht voor mijn stage bij KPN
 
+# Wie
+
+Jorn Wieringa, VWO 3 op het Harens Lyceum
+
 # Waar
 
 Ik heb stage gelopen bij de afdeling Technology Solutions van KPN, het onderdeel Digital Engine.
