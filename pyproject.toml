@@ -9,6 +9,8 @@ readme = "README.md"
 python = "^3.11"
 requests = "^2.31.0"
 pydantic = "^2.6.3"
+airportsdata = "^20240207"
+pydantic-settings = "^2.2.1"
 
 
 [build-system]

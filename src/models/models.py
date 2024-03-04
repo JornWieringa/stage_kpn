@@ -27,12 +27,3 @@ class Flight(BaseModel):
 
 class Flights(BaseModel):
     flights: list[Flight]
-
-
-# flight_data = {"flightDirection": "A", "FlightName": "HV6888", "landing_time": "20:00"}
-
-# try:
-#     validated_flight = Flight(**flight_data)
-#     print("Flight data is valid:", validated_flight)
-# except Exception as e:
-#     print("Validation failed:", e)
