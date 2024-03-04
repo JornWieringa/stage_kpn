@@ -10,6 +10,10 @@ Jorn Wieringa, VWO 3 op het Harens Lyceum
 Ik heb stage gelopen bij de afdeling Technology Solutions van KPN, het onderdeel Digital Engine.
 Digital Engine is het digitale hart van KPN, hier komen alle informatiestromen samen.
 
+De meeste programma's zijn geschreven in de programmeertaal Python.
+
+Python is in 1991 bedacht door de Nederlander Guido van Rossum. Python is nu 1 van de meest gebruikte programmeertalen.
+
 # Wat
 
 Veel applicaties bij Digital Engine verwerken data:
