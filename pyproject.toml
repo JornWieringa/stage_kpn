@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "stage-kpn"
+version = "0.1.0"
+description = ""
+authors = ["wpeterw <off@on.nl>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+requests = "^2.31.0"
+pydantic = "^2.6.3"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
